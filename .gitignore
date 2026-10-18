@@ -1,0 +1,11 @@
+# Python Sanal Ortamları
+.venv/
+venv/
+ENV/
+
+# Python Derleme ve Önbellek Dosyaları
+__pycache__/
+*.pyc
+
+# Editör Ayarları
+.vscode/
