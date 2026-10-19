@@ -1,17 +1,17 @@
-# Scientific AI & Computational Physics Laboratory
+# Scientific AI Learning Journal
 
-A structured computational repository dedicated to scientific computing, numerical analysis, and machine learning models for physical systems.
+My learning journal for scientific computing with Python.
+I am a physics student learning programming and scientific machine learning from scratch.
 
-## Overview
-This repository serves as a foundational workbench for implementing physical models, studying numerical stability, and building Physics-Informed Neural Networks (PINNs).
+## Goals
+- Learn Python, NumPy and numerical methods
+- Build physics simulations
+- Later: differentiable simulation and scientific machine learning
 
-## Core Focus Areas
-- **Classical & Modern Physics:** Numerical simulations of mechanics, harmonic oscillators, and wave equations.
-- **Numerical Methods:** Discretization, error propagation, numerical integration, and ODE/PDE solvers (e.g., Runge-Kutta methods).
-- **Scientific Machine Learning:** Forward and inverse problem solving using physics-guided deep learning.
+## Status
+Work in progress. This repository is my daily workbench.
+Larger projects will live in their own repositories.
 
-## Environment & Tech Stack
-- **Language:** Python 3.14+
-- **Version Control:** Git & GitHub
-- **Editor:** Visual Studio Code
-- **OS:** Windows / Linux CLI
+## Tech
+- Python 3.14
+- Git and GitHub
